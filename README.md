@@ -146,4 +146,4 @@ Depois, entre na pasta do projeto e execute o Manim normalmente.
 
 ---
 
-✨ Projeto pronto para execução da demonstração algébrica do Teorema de Pitágoras.
+✨ Projeto pronto para execução da Área do Triângulo.
