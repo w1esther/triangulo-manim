@@ -6,7 +6,7 @@ Este repositório é dedicado a **scripts em Python**, utilizando a biblioteca *
 
 ## 🎯 Para que serve?
 
-mostrar, de forma **visual e dinâmica**, o motivo pelo qual a área do retângulo é calculada pela base vezes a altura tudo isso dividido por dois.
+mostrar, de forma **visual e dinâmica**, o motivo pelo qual a área do triângulo é calculada pela base vezes a altura tudo isso dividido por dois.
 
 ---
 
